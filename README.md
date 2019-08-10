@@ -9,7 +9,7 @@ To download and install Jupyter notebook on your device, you will need Anaconda 
 ## Relased Sessions
 More sessions will be released later
 
-### Week 1 (09/12/2019) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MinervaAcademicTeam/SSS2023/master?filepath=Week%201%2FSSS1.ipynb)
+### Week 1 (09/12/2019) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MinervaAcademicTeam/SSS2023/master?filepath=Week%201%2FSSS1.ipynb) [![Download](https://img.shields.io/badge/download-.ipynb-brightgreen)](https://raw.githubusercontent.com/MinervaAcademicTeam/SSS2023/master/Week%201/SSS1.ipynb)
 Contains chapters: Python as Calculator, Strings, Booleans, Logical Operators, Functions
 
 ### Week 2 (09/19/2019)

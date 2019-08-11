@@ -2,7 +2,7 @@
 This repository contains released notebooks and files required upcomming Structured Session. These notebook should be downloaded and executed locally on your own Jupyter notebook installation.
 
 ## How to install Jupyter notebook on your device
-To download and install Jupyter notebook on your device, you will need Anaconda package. Full install tutorial you can find here:
+To download and install Jupyter notebook on your device, you will need Anaconda package. You can find full instalation tutorial  here:
 - For Windows: https://www.youtube.com/watch?v=5mLYKT-Vc1Y
 - For MacOS: https://www.youtube.com/watch?v=fBxjfGqvrvw
 
